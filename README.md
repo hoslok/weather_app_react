@@ -1,5 +1,7 @@
 A Weather App Built on React JS
 
+Hosted at: https://currentclimate.netlify.app/
+
 This is a simple React App that's built on React using two APIs
 1. GeoDB API (From Rapid API)
 2. OpenWeatherMap API
